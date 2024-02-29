@@ -1,4 +1,4 @@
-#Author: Chetan Kumar ckumaronline@gmail.com
+#Author: Chet K ckumar12@gmail.com
 #Automating Jobs Taxonomy query generation for All Jobs categories
 #Utilizing job_title, job_brief_description, job_parsed_criteria_skills columns for Amazon ML training dataset 
 #Executing generated query in Redshift and storing query output
