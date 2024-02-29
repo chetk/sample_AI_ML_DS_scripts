@@ -1,4 +1,4 @@
-#Author: Chetan Kumar ckumaronline@gmail.com
+#Author: Chet K ckumar12@gmail.com
 #Relevance Experiment
 #Moods Median Test Median Accept Rate 
 #Two Sample Mean t Test Mean Accept Rate
