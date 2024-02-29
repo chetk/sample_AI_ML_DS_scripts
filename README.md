@@ -1,3 +1,3 @@
-## sample_DS_ML_scripts
-## Sample Data Science | Machine Learning scripts
-## Author: Chet K ckumaronline@gmail.com | github.com/chetk
+## sample_AI_ML_DS_scripts
+## Sample Aritificial Intelligence | Machine Learning | Data Science scripts
+## Author: Chet K ckumar12@gmail.com | github.com/chetk
