@@ -1,4 +1,4 @@
-#Author: Chetan Kumar ckumaronline@gmail.com
+#Author: Chet K ckumar12@gmail.com
 #!/bin/sh
 #Automating Taxonomy daily batch prediction
 #Utilizing Amazon ML CLI
