@@ -1,4 +1,4 @@
-#Author: Chetan Kumar ckumaronline@gmail.com
+#Author: Chet K ckumar12@gmail.com
 #Recommended Opportunities ML framework
 #To do: PEP 8 format, descriptive comments, g3 compatible
 #y = 'is_accepted2'
