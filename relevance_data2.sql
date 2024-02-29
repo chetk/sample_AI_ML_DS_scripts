@@ -1,5 +1,5 @@
 ##########################################################
-#Author: Chetan Kumar ckumaronline@gmail.com
+#Author: Chet K ckumar12@gmail.com
 #Sample data pull scripts
 #Prepare data for feature engineering / feature selection
 #Create training and testing sets for Recommended Opportunities ML model
